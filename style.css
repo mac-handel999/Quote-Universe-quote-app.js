@@ -37,16 +37,16 @@ body {
 .quotes {
   margin: 4px;
   padding: 20px;
-  color: red;
+  color: greenyellow;
 }
 
 .author {
   padding: 15px;
-  color: #fff;
+  color: greenyellow;
   background: transparent;
   border: 2px solid wheat none;
   border-radius: 50px;
-  font-size: 1rem;
+  font-size: 1.2rem;
 }
 
 #get-quotes {
