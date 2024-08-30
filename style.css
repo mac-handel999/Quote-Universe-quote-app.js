@@ -6,22 +6,23 @@
 
 body {
     font-size: 1rem;
-    background: #400F67;
+    background: #fff;
     padding: 2px;
 }
 
 .header, .footer {
-  background: #192179;
+  background: #19B872;
   padding: 10px;
 }
 
 .container {
   margin: 10px 20px;
   padding: 20px;
-  background-color:#4A0000;
+  background-color:green;
   text-align: center;
   color: wheat;
   box-shadow: 10px 11px 10px 11px black;
+  border-radius: 10px;
   
 }
 
@@ -53,7 +54,7 @@ body {
   margin: 10px;
   padding: 10px;
   background: wheat;
-  color: #4A0000;
+  color: #19B872;
   border: none;
   outline: none;
   border-radius: 5px;            
@@ -61,8 +62,8 @@ body {
 
 #get-quotes:hover {
   border: 2px solid wheat;
-  background: #4A0000;
-  color: wheat;
+  background: #19B872;
+  color: green;
   box-shadow: 6px 5px 6px 5px black;
 }
 
