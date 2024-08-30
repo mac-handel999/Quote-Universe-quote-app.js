@@ -1,0 +1,88 @@
+* {
+  padding: 0px;
+  margin:  0px;
+  font-family: "paradise",'Times New Roman', Times, serif
+}
+
+body {
+    font-size: 1rem;
+    background: #400F67;
+    padding: 2px;
+}
+
+.header, .footer {
+  background: #192179;
+  padding: 10px;
+}
+
+.container {
+  margin: 10px 20px;
+  padding: 20px;
+  background-color:#4A0000;
+  text-align: center;
+  color: wheat;
+  box-shadow: 10px 11px 10px 11px black;
+  
+}
+
+.text-1 {
+  color: wheat;
+}
+
+.text-2 {
+  color: #4A0000;
+  font-size: 1.5rem;
+}
+
+.quotes {
+  margin: 4px;
+  padding: 20px;
+  color: red;
+}
+
+.author {
+  padding: 15px;
+  color: #fff;
+  background: transparent;
+  border: 2px solid wheat none;
+  border-radius: 50px;
+  font-size: 1rem;
+}
+
+#get-quotes {
+  margin: 10px;
+  padding: 10px;
+  background: wheat;
+  color: #4A0000;
+  border: none;
+  outline: none;
+  border-radius: 5px;            
+}
+
+#get-quotes:hover {
+  border: 2px solid wheat;
+  background: #4A0000;
+  color: wheat;
+  box-shadow: 6px 5px 6px 5px black;
+}
+
+.img {
+  background-image: url('images/img-01.jpg');
+  background-clip: cover;
+  margin: 10px;
+  padding: 10px;
+  border-radius: 10px;
+  border: 2px solid wheat;
+  box-shadow: 9px 7px 9px 6px black;
+}
+
+a {
+  color: #fff;
+}
+
+.footer {
+  text-align: center;
+  color:wheat;
+}
+  
+
